@@ -31,8 +31,5 @@
       var ctx = document.getElementById("myLineChart").getContext("2d");
       var myLineChart = new Chart(ctx).Line(data);
     </script>
-    <?php
-
-    ?>
   </body>
 </html>
